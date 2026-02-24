@@ -16,3 +16,13 @@ env/
 
 # Mac
 .DS_Store
+
+
+
+main.spec
+run.spec
+src/build/
+src/dist/
+src/main.spec
+build/
+dist/
